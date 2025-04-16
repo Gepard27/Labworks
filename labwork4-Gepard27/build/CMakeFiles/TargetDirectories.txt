@@ -1,0 +1,11 @@
+D:/labworks_op/labwork4-Gepard27/build/CMakeFiles/edit_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/CMakeFiles/rebuild_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/lib/CMakeFiles/argparser.dir
+D:/labworks_op/labwork4-Gepard27/build/lib/CMakeFiles/edit_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/lib/CMakeFiles/rebuild_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/bin/CMakeFiles/labwork4.dir
+D:/labworks_op/labwork4-Gepard27/build/bin/CMakeFiles/edit_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/bin/CMakeFiles/rebuild_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/tests/CMakeFiles/argparser_tests.dir
+D:/labworks_op/labwork4-Gepard27/build/tests/CMakeFiles/edit_cache.dir
+D:/labworks_op/labwork4-Gepard27/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/labworks_op/labwork4-Gepard27/build/lib",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\argparser.dir\\ArgParser.cpp.obj -c D:\\labworks_op\\labwork4-Gepard27\\lib\\ArgParser.cpp",
+  "file": "D:/labworks_op/labwork4-Gepard27/lib/ArgParser.cpp",
+  "output": "lib/CMakeFiles/argparser.dir/ArgParser.cpp.obj"
+},
+{
+  "directory": "D:/labworks_op/labwork4-Gepard27/build/bin",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/labwork4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\labwork4.dir\\main.cpp.obj -c D:\\labworks_op\\labwork4-Gepard27\\bin\\main.cpp",
+  "file": "D:/labworks_op/labwork4-Gepard27/bin/main.cpp",
+  "output": "bin/CMakeFiles/labwork4.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/labworks_op/labwork4-Gepard27/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/argparser_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\argparser_tests.dir\\argparser_test.cpp.obj -c D:\\labworks_op\\labwork4-Gepard27\\tests\\argparser_test.cpp",
+  "file": "D:/labworks_op/labwork4-Gepard27/tests/argparser_test.cpp",
+  "output": "tests/CMakeFiles/argparser_tests.dir/argparser_test.cpp.obj"
+}
+]
